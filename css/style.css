@@ -1,0 +1,17 @@
+
+footer ul li {
+    display: inline;
+    margin-right: 10px;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+img {
+    max-width: 50%;
+    height: auto;
+    display: block;
+    margin: 20px auto;
+}
